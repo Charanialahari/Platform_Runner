@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: d3c3451bbc776754596c5e4faed99c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1450930990851274931
+    second: DesertGround_0
+  - first:
+      213: 3639284140573276156
+    second: DesertGround_1
+  - first:
+      213: 5634994986966576251
+    second: DesertGround_2
+  - first:
+      213: -4566556541184438197
+    second: DesertGround_3
+  - first:
+      213: 2536255513635857610
+    second: DesertGround_4
+  - first:
+      213: 722230579205591888
+    second: DesertGround_5
+  - first:
+      213: -6332293186644178402
+    second: DesertGround_6
+  - first:
+      213: 2654772194711317962
+    second: DesertGround_7
+  - first:
+      213: -3679647840132986343
+    second: DesertGround_8
+  - first:
+      213: 6630849015444714586
+    second: DesertGround_9
+  - first:
+      213: -4320828053292948833
+    second: DesertGround_10
+  - first:
+      213: -1910490988267274680
+    second: DesertGround_11
+  - first:
+      213: 8420854630150262857
+    second: DesertGround_12
+  - first:
+      213: -5079517840319233746
+    second: DesertGround_13
+  - first:
+      213: 1054323814782076099
+    second: DesertGround_14
+  - first:
+      213: -5497441849794011898
+    second: DesertGround_15
+  - first:
+      213: -8138731824528146733
+    second: DesertGround_16
+  - first:
+      213: 7485826464024466316
+    second: DesertGround_17
+  - first:
+      213: 1366424482743378108
+    second: DesertGround_18
+  - first:
+      213: -2871504775807439862
+    second: DesertGround_19
+  - first:
+      213: 2043738948823938975
+    second: DesertGround_20
+  - first:
+      213: -5890240666792168204
+    second: DesertGround_21
+  - first:
+      213: 8274270962828783062
+    second: DesertGround_22
+  - first:
+      213: -6757963983574287528
+    second: DesertGround_23
+  - first:
+      213: -7694546443830381885
+    second: DesertGround_24
+  - first:
+      213: 7079205794752250329
+    second: DesertGround_25
+  - first:
+      213: -3935166166355393899
+    second: DesertGround_26
+  - first:
+      213: -2060813855919512827
+    second: DesertGround_27
+  - first:
+      213: 6393491432025191689
+    second: DesertGround_28
+  - first:
+      213: 8460998936992769168
+    second: DesertGround_29
+  - first:
+      213: 8764068291235116429
+    second: DesertGround_30
+  - first:
+      213: 1176455676121585879
+    second: DesertGround_31
+  - first:
+      213: -9213141271433278694
+    second: DesertGround_32
+  - first:
+      213: -6896511428159661957
+    second: DesertGround_33
+  - first:
+      213: 659102832691957276
+    second: DesertGround_34
+  - first:
+      213: -8390165193049778218
+    second: DesertGround_35
+  - first:
+      213: 8340215582136298140
+    second: DesertGround_36
+  - first:
+      213: -7916715144075842714
+    second: DesertGround_37
+  - first:
+      213: 8424880950622490810
+    second: DesertGround_38
+  - first:
+      213: 598805881032279570
+    second: DesertGround_39
+  - first:
+      213: 7023050257456145690
+    second: DesertGround_40
+  - first:
+      213: -435425351583838819
+    second: DesertGround_41
+  - first:
+      213: -1209813542569467342
+    second: DesertGround_42
+  - first:
+      213: 3141769378359874036
+    second: DesertGround_43
+  - first:
+      213: 5450849982063535844
+    second: DesertGround_44
+  - first:
+      213: 10059897992477877
+    second: DesertGround_45
+  - first:
+      213: 5079849758911217161
+    second: DesertGround_46
+  - first:
+      213: -5859305386832824928
+    second: DesertGround_47
+  - first:
+      213: 7974451286642708113
+    second: DesertGround_48
+  - first:
+      213: 7554107035667497812
+    second: DesertGround_49
+  - first:
+      213: -3811134528073548524
+    second: DesertGround_50
+  - first:
+      213: -9143180702272305336
+    second: DesertGround_51
+  - first:
+      213: -2305955358798812112
+    second: DesertGround_52
+  - first:
+      213: -1613616055871463652
+    second: DesertGround_53
+  - first:
+      213: -1555306116188881418
+    second: DesertGround_54
+  - first:
+      213: -4033034784953415219
+    second: DesertGround_55
+  - first:
+      213: -3753920028468296967
+    second: DesertGround_56
+  - first:
+      213: 2501193797484228913
+    second: DesertGround_57
+  - first:
+      213: 5365180134221190364
+    second: DesertGround_58
+  - first:
+      213: -4371138449726989689
+    second: DesertGround_59
+  - first:
+      213: 4764651688739057911
+    second: DesertGround_60
+  - first:
+      213: -331608120704048894
+    second: DesertGround_61
+  - first:
+      213: 5140464763598911085
+    second: DesertGround_62
+  - first:
+      213: 2434790987889421562
+    second: DesertGround_63
+  - first:
+      213: 4794048177220670536
+    second: DesertGround_64
+  - first:
+      213: -3553606102298934921
+    second: DesertGround_65
+  - first:
+      213: -235860597058024191
+    second: DesertGround_66
+  - first:
+      213: -7116765619474617723
+    second: DesertGround_67
+  - first:
+      213: -6580904363744131754
+    second: DesertGround_68
+  - first:
+      213: -3585963541645389103
+    second: DesertGround_69
+  - first:
+      213: 8609169303260666700
+    second: DesertGround_70
+  - first:
+      213: -5416423264907484384
+    second: DesertGround_71
+  - first:
+      213: -569048406499072790
+    second: DesertGround_72
+  - first:
+      213: -6179464008451899181
+    second: DesertGround_73
+  - first:
+      213: 7542911070585194548
+    second: DesertGround_74
+  - first:
+      213: -5300455365687484674
+    second: DesertGround_75
+  - first:
+      213: -5479975577464670764
+    second: DesertGround_76
+  - first:
+      213: 4571082994827782018
+    second: DesertGround_77
+  - first:
+      213: -5705737292575344768
+    second: DesertGround_78
+  - first:
+      213: 7965931779172365548
+    second: DesertGround_79
+  - first:
+      213: 4709328425995330353
+    second: DesertGround_80
+  - first:
+      213: 3382938647969579041
+    second: DesertGround_81
+  - first:
+      213: -74028203617239571
+    second: DesertGround_82
+  - first:
+      213: 7230386899052953110
+    second: DesertGround_83
+  - first:
+      213: 6613979712108339812
+    second: DesertGround_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DesertGround_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 671
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4744b083f14ddbe0800000000000000
+      internalID: -1450930990851274931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 658
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf73593e4a5518230800000000000000
+      internalID: 3639284140573276156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 610
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cef3dc516833e40800000000000000
+      internalID: 5634994986966576251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 657
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4017fb350550a0c0800000000000000
+      internalID: -4566556541184438197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 675
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac424e5b3f6923320800000000000000
+      internalID: 2536255513635857610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 703
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053597f92e0e50a00800000000000000
+      internalID: 722230579205591888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 693
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a827c85ec2f18a0800000000000000
+      internalID: -6332293186644178402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 630
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd2a59de35a7d420800000000000000
+      internalID: 2654772194711317962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 690
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a0756f8c34fecc0800000000000000
+      internalID: -3679647840132986343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 691
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b4dc3c02850c50800000000000000
+      internalID: 6630849015444714586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 679
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f926eeb37c55904c0800000000000000
+      internalID: -4320828053292948833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 661
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e7eb181929c75e0800000000000000
+      internalID: -1910490988267274680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_12
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 610
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9405f47aba2ecd470800000000000000
+      internalID: 8420854630150262857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 598
+        width: 182
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e214389cf6de189b0800000000000000
+      internalID: -5079517840319233746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 612
+        width: 251
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4025a6ce5b1ae00800000000000000
+      internalID: 1054323814782076099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_15
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 628
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d59a9a3c925b3b0800000000000000
+      internalID: -5497441849794011898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_16
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 699
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de35d4c68a6d0f80800000000000000
+      internalID: -8138731824528146733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_17
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 598
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839566e18ff2e760800000000000000
+      internalID: 7485826464024466316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 667
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0e052d3d386f210800000000000000
+      internalID: 1366424482743378108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_19
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 675
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ce82bce9d5628d0800000000000000
+      internalID: -2871504775807439862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_20
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 598
+        width: 164
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97f74aeeb1dc5c10800000000000000
+      internalID: 2043738948823938975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_21
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 640
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4fa464259a14ea0800000000000000
+      internalID: -5890240666792168204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_22
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 610
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd2dba0a9d14d270800000000000000
+      internalID: 8274270962828783062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_23
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 681
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bbb2aef83e632a0800000000000000
+      internalID: -6757963983574287528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2bebbd6ca773590800000000000000
+      internalID: -7694546443830381885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 665
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d14810c9246e3260800000000000000
+      internalID: 7079205794752250329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 602
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592404a983b7369c0800000000000000
+      internalID: -3935166166355393899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 632
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e6b977b48663e0800000000000000
+      internalID: -2060813855919512827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 644
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057d50559e3ab850800000000000000
+      internalID: 6393491432025191689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 653
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094696474b18b6570800000000000000
+      internalID: 8460998936992769168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 642
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8575564da930a970800000000000000
+      internalID: 8764068291235116429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_31
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 638
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8183d443c935010800000000000000
+      internalID: 1176455676121585879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_32
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 634
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b8ab2b3d8542080800000000000000
+      internalID: -9213141271433278694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 631
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b781f17356baa40a0800000000000000
+      internalID: -6896511428159661957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_34
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 626
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ece05c88a952900800000000000000
+      internalID: 659102832691957276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_35
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 637
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7db6db535209b80800000000000000
+      internalID: -8390165193049778218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_36
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 610
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a696332e56eb370800000000000000
+      internalID: 8340215582136298140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_37
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 641
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b6761658d222290800000000000000
+      internalID: -7916715144075842714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_38
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 598
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab01fc076903be470800000000000000
+      internalID: 8424880950622490810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_39
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 610
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2160854b6c26f4800800000000000000
+      internalID: 598805881032279570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_40
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 610
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15a36bdff2e67160800000000000000
+      internalID: 7023050257456145690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_41
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 626
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d45a023fe05f9f0800000000000000
+      internalID: -435425351583838819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_42
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 596
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232a0be2ef0e53fe0800000000000000
+      internalID: -1209813542569467342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_43
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 598
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f117539a9ec99b20800000000000000
+      internalID: 3141769378359874036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_44
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 637
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e667d8cd2f45ab40800000000000000
+      internalID: 5450849982063535844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_45
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 608
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc71568c6db32000800000000000000
+      internalID: 10059897992477877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_46
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 626
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eb14801704f7640800000000000000
+      internalID: 5079849758911217161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_47
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 626
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5fb4b6bc09faea0800000000000000
+      internalID: -5859305386832824928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_48
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 610
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ecefad131faae60800000000000000
+      internalID: 7974451286642708113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_49
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 598
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538d38535495d860800000000000000
+      internalID: 7554107035667497812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_50
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 626
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d33f6c6512c1bc0800000000000000
+      internalID: -3811134528073548524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 586
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8474adb0895ec1180800000000000000
+      internalID: -9143180702272305336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_52
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 580
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c63e291d99fffd0800000000000000
+      internalID: -2305955358798812112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_53
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 560
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f1ae91fb84b99e0800000000000000
+      internalID: -1613616055871463652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_54
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 570
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdb193e3517a6ae0800000000000000
+      internalID: -1555306116188881418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_55
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 563
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9ce042b38c708c0800000000000000
+      internalID: -4033034784953415219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_56
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 546
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f24ceb8f9567ebc0800000000000000
+      internalID: -3753920028468296967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 79
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313575c18606b220800000000000000
+      internalID: 2501193797484228913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd49c38f7e2f47a40800000000000000
+      internalID: 5365180134221190364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a98ff3db89653c0800000000000000
+      internalID: -4371138449726989689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_60
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 79
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0b1c977717f1240800000000000000
+      internalID: 4764651688739057911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_61
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201ecc0db24e56bf0800000000000000
+      internalID: -331608120704048894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_62
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b9b69779965740800000000000000
+      internalID: 5140464763598911085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_63
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca87fd08d1ac120800000000000000
+      internalID: 2434790987889421562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_64
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 77
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d85fca61e78240800000000000000
+      internalID: 4794048177220670536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_65
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 81
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771cfc8e31e0faec0800000000000000
+      internalID: -3553606102298934921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_66
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 81
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d48df590e0abcf0800000000000000
+      internalID: -235860597058024191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_67
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 63
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aa085106b2c3d90800000000000000
+      internalID: -7116765619474617723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 61
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655863a295eeba4a0800000000000000
+      internalID: -6580904363744131754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_69
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d299ba78291c3ec0800000000000000
+      internalID: -3585963541645389103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_70
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b9c043ed9e97770800000000000000
+      internalID: 8609169303260666700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_71
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 67
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023270eecbff4d4b0800000000000000
+      internalID: -5416423264907484384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_72
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ee9e3d755a18f0800000000000000
+      internalID: -569048406499072790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_73
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0c9e979322e3aa0800000000000000
+      internalID: -6179464008451899181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_74
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 49
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438879697adcda860800000000000000
+      internalID: 7542911070585194548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_75
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 47
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe526c8deff076b0800000000000000
+      internalID: -5300455365687484674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_76
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 63
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f6671f3733f3b0800000000000000
+      internalID: -5479975577464670764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_77
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 41
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e981e3cfbf6f30800000000000000
+      internalID: 4571082994827782018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_78
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 47
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087f856a92621d0b0800000000000000
+      internalID: -5705737292575344768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_79
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 43
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce470927fbcac8e60800000000000000
+      internalID: 7965931779172365548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_80
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 21
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133e91a9045ea5140800000000000000
+      internalID: 4709328425995330353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_81
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 33
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ca29d6cc92fe20800000000000000
+      internalID: 3382938647969579041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_82
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 29
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedb804bdbff8fef0800000000000000
+      internalID: -74028203617239571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_83
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e70b2939e775460800000000000000
+      internalID: 7230386899052953110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertGround_84
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462abdb718399cb50800000000000000
+      internalID: 6613979712108339812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DesertGround_0: -1450930990851274931
+      DesertGround_1: 3639284140573276156
+      DesertGround_10: -4320828053292948833
+      DesertGround_11: -1910490988267274680
+      DesertGround_12: 8420854630150262857
+      DesertGround_13: -5079517840319233746
+      DesertGround_14: 1054323814782076099
+      DesertGround_15: -5497441849794011898
+      DesertGround_16: -8138731824528146733
+      DesertGround_17: 7485826464024466316
+      DesertGround_18: 1366424482743378108
+      DesertGround_19: -2871504775807439862
+      DesertGround_2: 5634994986966576251
+      DesertGround_20: 2043738948823938975
+      DesertGround_21: -5890240666792168204
+      DesertGround_22: 8274270962828783062
+      DesertGround_23: -6757963983574287528
+      DesertGround_24: -7694546443830381885
+      DesertGround_25: 7079205794752250329
+      DesertGround_26: -3935166166355393899
+      DesertGround_27: -2060813855919512827
+      DesertGround_28: 6393491432025191689
+      DesertGround_29: 8460998936992769168
+      DesertGround_3: -4566556541184438197
+      DesertGround_30: 8764068291235116429
+      DesertGround_31: 1176455676121585879
+      DesertGround_32: -9213141271433278694
+      DesertGround_33: -6896511428159661957
+      DesertGround_34: 659102832691957276
+      DesertGround_35: -8390165193049778218
+      DesertGround_36: 8340215582136298140
+      DesertGround_37: -7916715144075842714
+      DesertGround_38: 8424880950622490810
+      DesertGround_39: 598805881032279570
+      DesertGround_4: 2536255513635857610
+      DesertGround_40: 7023050257456145690
+      DesertGround_41: -435425351583838819
+      DesertGround_42: -1209813542569467342
+      DesertGround_43: 3141769378359874036
+      DesertGround_44: 5450849982063535844
+      DesertGround_45: 10059897992477877
+      DesertGround_46: 5079849758911217161
+      DesertGround_47: -5859305386832824928
+      DesertGround_48: 7974451286642708113
+      DesertGround_49: 7554107035667497812
+      DesertGround_5: 722230579205591888
+      DesertGround_50: -3811134528073548524
+      DesertGround_51: -9143180702272305336
+      DesertGround_52: -2305955358798812112
+      DesertGround_53: -1613616055871463652
+      DesertGround_54: -1555306116188881418
+      DesertGround_55: -4033034784953415219
+      DesertGround_56: -3753920028468296967
+      DesertGround_57: 2501193797484228913
+      DesertGround_58: 5365180134221190364
+      DesertGround_59: -4371138449726989689
+      DesertGround_6: -6332293186644178402
+      DesertGround_60: 4764651688739057911
+      DesertGround_61: -331608120704048894
+      DesertGround_62: 5140464763598911085
+      DesertGround_63: 2434790987889421562
+      DesertGround_64: 4794048177220670536
+      DesertGround_65: -3553606102298934921
+      DesertGround_66: -235860597058024191
+      DesertGround_67: -7116765619474617723
+      DesertGround_68: -6580904363744131754
+      DesertGround_69: -3585963541645389103
+      DesertGround_7: 2654772194711317962
+      DesertGround_70: 8609169303260666700
+      DesertGround_71: -5416423264907484384
+      DesertGround_72: -569048406499072790
+      DesertGround_73: -6179464008451899181
+      DesertGround_74: 7542911070585194548
+      DesertGround_75: -5300455365687484674
+      DesertGround_76: -5479975577464670764
+      DesertGround_77: 4571082994827782018
+      DesertGround_78: -5705737292575344768
+      DesertGround_79: 7965931779172365548
+      DesertGround_8: -3679647840132986343
+      DesertGround_80: 4709328425995330353
+      DesertGround_81: 3382938647969579041
+      DesertGround_82: -74028203617239571
+      DesertGround_83: 7230386899052953110
+      DesertGround_84: 6613979712108339812
+      DesertGround_9: 6630849015444714586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
